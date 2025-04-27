@@ -10,4 +10,21 @@ torres-engineer/torres-engineer is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=torres-engineer)](https://github.com/anuraghazra/github-readme-stats)
+<table align="center"><tr>
+  <td><picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=torres-engineer&show_icons=true&theme=dark&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=torres-engineer&show_icons=true&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=torres-engineer&show_icons=true&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile" />
+</picture></td>
+  <td>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torres-engineer&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </td>
+</tr></table>
